@@ -2,13 +2,13 @@
 Use it to get gif for commands like pat, slap, poke, hug and more!!!!
 
 # Installation 🖥
-<b><a href = "https://www.npmjs.com/package/discord-actions"> npm: </a><b> 
+<b><a href = "https://www.npmjs.com/package/discord-emotes"> npm: </a><b> 
 <p>
-<code> npm i discord-actions </code>
+<code> npm i discord-emotes </code>
 
 # Usage ✏
 ```js
-const { hug } = require("./f.js");
+const { hug } = require("discord-emotes");
 
 var HugGif = hug().then(
     function(value){console.log(value)},  
