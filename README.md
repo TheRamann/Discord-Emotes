@@ -10,19 +10,12 @@ Use it to get gif for commands like pat, slap, poke, hug and more!!!!
 ```js
 const { hug } = require("discord-emotes");
 
-var HugGif = hug().then(
-    function(value){console.log(value)},  
+hug().then(
+    function(value){               // Here the value of gif is value.
+    console.log(value)            //  You can use the gif anywhere you want.
+    },                           //   Just use the code like this
     function(error){console.log(error)} 
 );                                     
-```
-Now the value is stored as a variable called HugGif. Now you can use it anywhere you want.
-You can print it in your terminal shell
-```js
-console.log(HugGif);
-```
-Or you can even message it in a channel in discord
-```js
-message.channel.send(HugGif);
 ```
 # Other emotes 😎
 There are these emotes :- <br>
