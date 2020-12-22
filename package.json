@@ -1,14 +1,34 @@
 {
   "name": "discord-emotes",
   "version": "1.0.0",
-  "description": "",
+  "description": "Use it to get gif for commands like pat, slap, poke, hug and more!!!!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "https://github.com/TheRamann",
   "license": "ISC",
   "dependencies": {
     "superagent": "^6.1.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheRamann/Discord-Emotes.git"
+  },
+  "keywords": [
+    "discord",
+    "emotes",
+    "actions",
+    "hug",
+    "tickle",
+    "slap",
+    "poke",
+    "pat",
+    "cuddle"
+  ],
+  "bugs": {
+    "url": "https://github.com/TheRamann/Discord-Emotes/issues"
+  },
+  "homepage": "https://github.com/TheRamann/Discord-Emotes#readme"
 }
