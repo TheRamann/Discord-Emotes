@@ -1,14 +1,14 @@
-# Discord-Actions
+# Discord-Emotes
 Use it to get gif for commands like pat, slap, poke, hug and more!!!!
 
-# Installation 🖥
+# Installation <img src="https://cdn.discordapp.com/emojis/316264057659326464.png?v=1" alt = "🖥" width="35px">
 <b><a href = "https://www.npmjs.com/package/discord-emotes"> npm: </a><b> 
 <p>
 <code> npm i discord-emotes </code>
-    <p><b><a href = "https://github.com/TheRamann/Discord-Emotes"> github: </a></p>
-        <code>git clone https://github.com/TheRamann/Discord-Emotes </code>
+    <p><b><a href = "https://classic.yarnpkg.com/en/package/discord-emotes"> yarn: </a></p>
+        <code>yarn add discord-emotes </code>
 
-# Usage ✏
+# Usage <img src="https://cdn.discordapp.com/emojis/757399420319825950.png?v=1" alt = "✏" width="35px">
 See the code below for instructions
 ```js
 const { hug } = require("discord-emotes");
@@ -32,7 +32,7 @@ hug().then(
     function(error){console.log(error)} 
 );                                     
 ```
-You can even message the code to a discord channel if you want
+You can even send the gif to a discord channel if you want
 ```js
 const { hug } = require("discord-emotes");
 
@@ -43,7 +43,7 @@ hug().then(
     function(error){console.log(error)} 
 );                                     
 ```
-# Other emotes 😎
+# Other emotes <img src="https://cdn.discordapp.com/emojis/781428090454147092.gif?v=1" alt = "✏" width="35px">
 There are these emotes :- <br>
 📝hug <br> 
 📝kiss <br>
@@ -55,7 +55,7 @@ There are these emotes :- <br>
 📝cuddle <br>
 📝ngif <br>
 
-# How to use other emotes?
+# How to use other emotes? <img src="https://cdn.discordapp.com/emojis/655370229618049024.png?v=1" alt = "✏" width="35px">
 Just replace "hug" from the code in # Usage and change it with the emote you want
 ```js
 const { kiss } = require("discord-emotes");
@@ -68,7 +68,7 @@ kiss().then(
     function(error){console.log(error)} 
 );                                     
 ```
-# Like the package?
+# Like the package? <img src="https://cdn.discordapp.com/emojis/599598716521021441.gif?v=1" alt = "✏" width="35px">
 <a href = "https://www.buymeacoffee.com/TheRamann">
 Support the creator here
 </a>
