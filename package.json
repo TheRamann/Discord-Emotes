@@ -12,10 +12,7 @@
     "superagent": "^6.1.0"
   },
   "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/TheRamann/Discord-Emotes.git"
-  },
+  "repository": "git+https://github.com/TheRamann/Discord-Emotes.git",
   "keywords": [
     "discord",
     "emotes",
