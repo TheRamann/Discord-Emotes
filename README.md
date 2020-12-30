@@ -9,7 +9,7 @@ Use it to get gif for commands like pat, slap, poke, hug and more!!!!
         <code>yarn add discord-emotes </code>
 
 # Usage <img src="https://cdn.discordapp.com/emojis/757399420319825950.png?v=1" alt = "✏" width="35px">
-See the code below for instructions
+<b>See the code below for instructions</b>
 ```js
 const { hug } = require("discord-emotes");
 
@@ -21,7 +21,8 @@ hug().then(
     function(error){console.log(error)} 
 );                                     
 ```
-You can use the code like below
+***
+<b>You can use the code like below</b>
 ```js
 const { hug } = require("discord-emotes");
 
@@ -32,29 +33,36 @@ hug().then(
     function(error){console.log(error)} 
 );                                     
 ```
-You can even send the gif to a discord channel if you want
+***
+<b>You can even send the gif to a discord channel if you want</b>
 ```js
 const { hug } = require("discord-emotes");
 
-hug().then(
-    function(value){
-    bot.channels.cache.find(channel => channel.id === "543092720344760325").send(value)
-    },
-    function(error){console.log(error)} 
-);                                     
+if(command == "hug"){
+    hug().then(
+        function(value){
+        const embed = new Discord.MessageEmbed()
+            .setTitle(`${message.author.username} hugs ${message.mentions.users.first}`)
+            .setImage(value)
+        message.channel.send(embed);
+        },
+        function(error){console.log(error)} 
+    );}
 ```
 # Other emotes <img src="https://cdn.discordapp.com/emojis/781428090454147092.gif?v=1" alt = "✏" width="35px">
-There are these emotes :- <br>
-📝hug <br> 
-📝kiss <br>
-📝pat <br>
-📝poke <br>
-📝slap <br>
-📝tickle <br>
-📝smug <br>
-📝cuddle <br>
-📝ngif <br>
-
+ <font size="3"> There are these emotes :- <br>
+<img src="https://cdn.discordapp.com/emojis/563830235259338762.png?v=1" alt = "📝" width="15px"> hug <br> 
+<img src="https://cdn.discordapp.com/emojis/563830235259338762.png?v=1" alt = "📝" width="15px"> kiss <br>
+<img src="https://cdn.discordapp.com/emojis/563830235259338762.png?v=1" alt = "📝" width="15px"> pat <br>
+<img src="https://cdn.discordapp.com/emojis/563830235259338762.png?v=1" alt = "📝" width="15px"> poke <br>
+<img src="https://cdn.discordapp.com/emojis/563830235259338762.png?v=1" alt = "📝" width="15px"> slap <br>
+<img src="https://cdn.discordapp.com/emojis/563830235259338762.png?v=1" alt = "📝" width="15px"> tickle <br>
+<img src="https://cdn.discordapp.com/emojis/563830235259338762.png?v=1" alt = "📝" width="15px"> smug <br>
+<img src="https://cdn.discordapp.com/emojis/563830235259338762.png?v=1" alt = "📝" width="15px"> cuddle <br>
+<img src="https://cdn.discordapp.com/emojis/563830235259338762.png?v=1" alt = "📝" width="15px"> dog <br>
+<img src="https://cdn.discordapp.com/emojis/563830235259338762.png?v=1" alt = "📝" width="15px"> cat <br>
+<img src="https://cdn.discordapp.com/emojis/563830235259338762.png?v=1" alt = "📝" width="15px"> meme <br>
+</font>
 # How to use other emotes? <img src="https://cdn.discordapp.com/emojis/655370229618049024.png?v=1" alt = "✏" width="35px">
 Just replace "hug" from the code in # Usage and change it with the emote you want
 ```js

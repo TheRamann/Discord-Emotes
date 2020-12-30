@@ -80,6 +80,29 @@ async function cuddle() {
     var gif = body.url;
     return Promise.resolve(gif);
 }
+async function dog() {
+    const {
+        body
+    } = await superagent
+        .get('https://random.dog/woof.json');
+    var gif = body.url;
+    return Promise.resolve(gif);
+}
+async function cat() {
+    const {
+        body
+    } = await superagent
+        .get('http://aws.random.cat/meow');
+    var gif = body.file;
+    return Promise.resolve(gif);
+}
+async function meme() {
+    const {
+        body
+    } = await superagent
+        .get('https://meme-api.herokuapp.com/gimme');
+    return Promise.resolve(body);
+}
 module.exports = {
     smug: smug,
     hug: hug,
@@ -90,5 +113,8 @@ module.exports = {
     pat: pat,
     kiss: kiss,
     ngif: ngif,
-    cuddle: cuddle
+    cuddle: cuddle,
+    dog: dog,
+    cat: cat,
+    meme: meme
 };
