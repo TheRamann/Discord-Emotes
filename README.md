@@ -42,7 +42,7 @@ if(command == "hug"){
     hug().then(
         function(value){
         const embed = new Discord.MessageEmbed()
-            .setTitle(`${message.author.username} hugs ${message.mentions.users.first}`)
+            .setTitle(`${message.author.username} hugs ${message.mentions.users.first().username}`)
             .setImage(value)
         message.channel.send(embed);
         },
