@@ -39,8 +39,8 @@ if(command == "hug"){
     });}
 ```
 <b>
-A tip: use visual studio code
-<img src = "https://github.com/TheRamann/Discord-Emotes/blob/main/Md%20Files/Preview.png?raw=true">
+A tip: use visual studio code <br>
+<img src = "https://github.com/TheRamann/Discord-Emotes/blob/main/Md%20Files/Preview.png?raw=true" width = "300">
 
 # Other emotes <img src="https://cdn.discordapp.com/emojis/781428090454147092.gif?v=1" alt = "✏" width="35px">
  <font size="3"> There are these emotes :- <br>
