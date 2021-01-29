@@ -54,7 +54,7 @@ A tip: use visual studio code <br>
 <img src="https://cdn.discordapp.com/emojis/563830235259338762.png?v=1" alt = "📝" width="15px"> cuddle <br>
 <img src="https://cdn.discordapp.com/emojis/563830235259338762.png?v=1" alt = "📝" width="15px"> dog <br>
 <img src="https://cdn.discordapp.com/emojis/563830235259338762.png?v=1" alt = "📝" width="15px"> cat <br>
-<img src="https://cdn.discordapp.com/emojis/563830235259338762.png?v=1" alt = "📝" width="15px"> meme <br>
+<a href = "https://github.com/TheRamann/Discord-Emotes/blob/main/Md%20Files/meme.md"><img src="https://cdn.discordapp.com/emojis/563830235259338762.png?v=1" alt = "📝" width="15px"> meme <br> </a>
 </font>
 
 # Like the package? <img src="https://cdn.discordapp.com/emojis/599598716521021441.gif?v=1" alt = "✏" width="35px">
