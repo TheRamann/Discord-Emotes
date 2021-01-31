@@ -1,6 +1,6 @@
 {
   "name": "discord-emotes",
-  "version": "1.5.1",
+  "version": "1.5.3",
   "description": "Use it to get gif for commands like pat, slap, poke, hug and more!!!!",
   "main": "index.js",
   "scripts": {
