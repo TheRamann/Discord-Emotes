@@ -34,7 +34,7 @@ if(command == "hug"){
     emotes.hug().then(gif =>{
         const embed = new Discord.MessageEmbed()
             .setTitle(`${message.author.username} hugs ${message.mentions.users.first().username}`)
-            .setImage(value)
+            .setImage(gif)
         message.channel.send(embed);
     });}
 ```
