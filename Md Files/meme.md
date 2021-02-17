@@ -14,7 +14,7 @@ emotes.meme().then(object => {
 ```
 
 ## Meme command has these properties :- <br>
-<a href = "https://github.com/TheRamann/Discord-Emotes/blob/main/Md%20Files/meme.md##Usage">To use these, just use the code like above </a> <br>
+<a href = "https://github.com/TheRamann/Discord-Emotes/blob/main/Md%20Files/meme.md#usage">To use these, just use the code like above </a> <br>
 <img src="https://cdn.discordapp.com/emojis/582077820843327490.png?v=1" alt = "📝" width="15px"> author <br>
 <img src="https://cdn.discordapp.com/emojis/582077820843327490.png?v=1" alt = "📝" width="15px"> nsfw <br>
 <img src="https://cdn.discordapp.com/emojis/582077820843327490.png?v=1" alt = "📝" width="15px"> postLink <br>
