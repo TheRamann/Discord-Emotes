@@ -46,17 +46,17 @@ A tip: use visual studio code <br>
 
 # Other emotes <img src="https://cdn.discordapp.com/emojis/781428090454147092.gif?v=1" alt = "✏" width="35px">
  <font size="3"> There are these emotes :- <br>
-<img src="https://cdn.discordapp.com/emojis/685361960828665909.png?v=1" alt = "📝" width="15px"> hug <br> 
-<img src="https://cdn.discordapp.com/emojis/685361960828665909.png?v=1" alt = "📝" width="15px"> kiss <br>
-<img src="https://cdn.discordapp.com/emojis/685361960828665909.png?v=1" alt = "📝" width="15px"> pat <br>
-<img src="https://cdn.discordapp.com/emojis/685361960828665909.png?v=1" alt = "📝" width="15px"> poke <br>
-<img src="https://cdn.discordapp.com/emojis/685361960828665909.png?v=1" alt = "📝" width="15px"> slap <br>
-<img src="https://cdn.discordapp.com/emojis/685361960828665909.png?v=1" alt = "📝" width="15px"> tickle <br>
-<img src="https://cdn.discordapp.com/emojis/685361960828665909.png?v=1" alt = "📝" width="15px"> smug <br>
-<img src="https://cdn.discordapp.com/emojis/685361960828665909.png?v=1" alt = "📝" width="15px"> cuddle <br>
-<img src="https://cdn.discordapp.com/emojis/685361960828665909.png?v=1" alt = "📝" width="15px"> dog <br>
-<img src="https://cdn.discordapp.com/emojis/685361960828665909.png?v=1" alt = "📝" width="15px"> cat <br>
-<a href = "https://github.com/TheRamann/Discord-Emotes/blob/main/Md%20Files/meme.md"><img src="https://cdn.discordapp.com/emojis/685361960828665909.png?v=1" alt = "📝" width="15px"> meme <br> </a>
+<img src="https://cdn.discordapp.com/emojis/582077820843327490.png?v=1" alt = "📝" width="15px"> hug <br> 
+<img src="https://cdn.discordapp.com/emojis/582077820843327490.png?v=1" alt = "📝" width="15px"> kiss <br>
+<img src="https://cdn.discordapp.com/emojis/582077820843327490.png?v=1" alt = "📝" width="15px"> pat <br>
+<img src="https://cdn.discordapp.com/emojis/582077820843327490.png?v=1" alt = "📝" width="15px"> poke <br>
+<img src="https://cdn.discordapp.com/emojis/582077820843327490.png?v=1" alt = "📝" width="15px"> slap <br>
+<img src="https://cdn.discordapp.com/emojis/582077820843327490.png?v=1" alt = "📝" width="15px"> tickle <br>
+<img src="https://cdn.discordapp.com/emojis/582077820843327490.png?v=1" alt = "📝" width="15px"> smug <br>
+<img src="https://cdn.discordapp.com/emojis/582077820843327490.png?v=1" alt = "📝" width="15px"> cuddle <br>
+<img src="https://cdn.discordapp.com/emojis/582077820843327490.png?v=1" alt = "📝" width="15px"> dog <br>
+<img src="https://cdn.discordapp.com/emojis/582077820843327490.png?v=1" alt = "📝" width="15px"> cat <br>
+<a href = "https://github.com/TheRamann/Discord-Emotes/blob/main/Md%20Files/meme.md"><img src="https://cdn.discordapp.com/emojis/582077820843327490.png?v=1" alt = "📝" width="15px"> meme <br> </a>
 </font>
 
 # Like the package? <img src="https://cdn.discordapp.com/emojis/599598716521021441.gif?v=1" alt = "✏" width="35px">
